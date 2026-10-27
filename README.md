@@ -17,10 +17,10 @@ The objective of this project is to analyze employee data using Microsoft Excel 
 - KPI Cards representing key HR metrics
 
 **Data Approach:**
-- Data Inspection: Reviwed the dataset structure, column names, data types, and missing values.
-- Data Cleaning: Check for blank values, inconsitent entries, and potential data-quality issues. 
-- KPI Calculation: Calculate Total employee number, attrition rate, gender distribution. 
-- Analysis: Used formulas, PivotTables to compare employees to identify patterns. 
+- **Data Inspection:** Reviwed the dataset structure, column names, data types, and missing values.
+- **Data Cleaning:** Check for blank values, inconsitent entries, and potential data-quality issues. 
+- **KPI Calculation:** Calculate Total employee number, attrition rate, gender distribution. 
+- **Analysis:** Used formulas, PivotTables to compare employees to identify patterns. 
 
 **Analysis Performed:**
 - **Overall Employee Attrition:** Calculated total employees active employees, employees who left, and overall attrition rate to understand workforce retention. 
