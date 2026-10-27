@@ -1,7 +1,7 @@
 # HR-Employee-Attrition-Analysis
 HR employee attrition analysis using Excel to identify attrition patterns, key drivers, and actionable recommendations.
 
-** **Project Overview**:
+**Project Objective:**
 The objective of this project is to analyze employee data using Microsoft Excel to understand workforce demographics, employee attrition and retention pattern. This analysis aims to understand HR performance key indicators (KPI's), evaluating attrition across defferent departments, gender, age groups, and examine the relationship between job satisfaction, overtime, work-life balance, compensation, and career progression. 
 
 **Project Objectives:**
